@@ -1,8 +1,8 @@
 # Evidências - INSERT, UPDATE e DELETE no banco db_em
 ## Identificação
-Nome:Lucas Eduardo Duarte Pereira
-Turma: 3°EM B
-Data:19/05/2025
+Nome: Lucas Eduardo Duarte Pereira
+Turma: 3EM B
+Data: 19/05/2025
 ---
 # 1. SELECT final - Leituras do dia 2026-04-04
 Execute no DBeaver:
@@ -126,3 +126,4 @@ Resposta:
 **DELETE** apaga o dado de vez (tipo deletar a conta do usuário).
 
 Cuidado com o `UPDATE` e o `DELETE`. Se esquecer de filtrar com o `WHERE`, você altera ou apaga o banco de dados inteiro de uma vez só!
+k
